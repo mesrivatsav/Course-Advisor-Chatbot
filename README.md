@@ -53,9 +53,7 @@ Sample Use Cases
 - Which process validation courses are offered at TUS Moylish campus?
 - Does ATU offer any postgraduate courses in marketing?
 
-Thesis Report
-
-“An Open-Source AI Chatbot for Course Advising: Leveraging Retrieval Augmented Generation”
+📄 Full Thesis: [docs/Thesis_Report_Course_Advisor_Chatbot.pdf](docs/Thesis_Report_Course_Advisor_Chatbot.pdf)
 
 Future Improvements
 - Add GPT-4/Claude for comparison
