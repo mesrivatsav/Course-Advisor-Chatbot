@@ -47,15 +47,16 @@ Universities Included
 - Munster Technological University (MTU)
 - South East Technological University (SETU)
 - Atlantic Technological University (ATU)
+
 Sample Use Cases
 - What are the entry requirements for the BSc in Computer Science at TUS?
 - Which process validation courses are offered at TUS Moylish campus?
 - Does ATU offer any postgraduate courses in marketing?
 
 Thesis Report
+
 “An Open-Source AI Chatbot for Course Advising: Leveraging Retrieval Augmented Generation”
-Master of Science in Data Analytics – 2024
-Author: Rakesh Srivatsav Velluvayala
+
 Future Improvements
 - Add GPT-4/Claude for comparison
 - Enhance hallucination handling
@@ -63,7 +64,9 @@ Future Improvements
 - Deploy publicly as web app or API
 
 Acknowledgements
+
 Thanks to thesis supervisor David Leonard and faculty at Technological University of the Shannon.
+
 Contact
 📧 rakeshsrivatsav@gmail.com
 🔗 https://www.linkedin.com/in/mesrivatsav
