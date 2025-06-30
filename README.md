@@ -22,10 +22,14 @@ Installation
 1. Clone the repo
     git clone https://github.com/mesrivatsav/Course-Advisor-Chatbot.git
 2. Install dependencies
+    
     pip install -r requirements.txt
 3. Run Ollama with desired model
+    
     ollama run llama3
-4. Launch Streamlit app
+4. Run files in Data collection folder to generate vector data containing information regarding different universities.
+5. Launch Streamlit app
+    
     streamlit run app.py
 
 Evaluation
